@@ -1,0 +1,14 @@
+{
+	"name": "enxas/scoria",
+	"description": "A PHP library for encoding video files into ASCII art and playing them in the terminal.",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Enxas\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=8.0"
+	},
+	"license": "MIT"
+}
